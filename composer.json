@@ -1,5 +1,5 @@
 {
-    "name": "phpbu/phpbu-laravel",
+    "name": "barygi/phpbu-laravel",
     "description": "Laravel backup package - integrates phpbu with the laravel artisan command line tool",
     "type": "library",
     "keywords": [
