@@ -1,5 +1,5 @@
 {
-    "name": "phpbu/phpbu-laravel",
+    "name": "barygi/phpbu-laravel",
     "description": "Laravel backup package - integrates phpbu with the laravel artisan command line tool",
     "type": "library",
     "keywords": [
@@ -23,9 +23,9 @@
         }
     },
     "require": {
-        "illuminate/support": "5.*|6.*",
-        "illuminate/console": "5.*|6.*",
-        "phpbu/phpbu": "~5"
+        "illuminate/support": "5.*|6.*|7.*|8.*",
+        "illuminate/console": "5.*|6.*|7.*|8.*",
+        "phpbu/phpbu": "~6"
     },
     "extra": {
         "branch-alias": {
